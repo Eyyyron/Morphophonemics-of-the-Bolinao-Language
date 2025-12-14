@@ -46,10 +46,10 @@ This work builds on the foundational linguistic research of **Gary C. Persons (1
 
 ## What This Project Is
 
-* 📘 **An ebook** documenting the theory, rules, experiments, and cultural insights
-* 💻 **A codebase** implementing those rules in Python
-* 🧠 **A proof-of-concept linguistic engine** for low-resource language technology
-* 🌊 **A cultural analysis** revealing environmental knowledge encoded in language
+* **An ebook** documenting the theory, rules, experiments, and cultural insights
+* **A codebase** implementing those rules in Python
+* **A proof-of-concept linguistic engine** for low-resource language technology
+* **A cultural analysis** revealing environmental knowledge encoded in language
 
 ---
 
