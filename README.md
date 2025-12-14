@@ -156,8 +156,6 @@ If you use this work in academic or technical contexts, please cite the ebook:
 
 > *Morphophonemics of the Bolinao Language: An Introduction to NLP & Computational Linguistics*
 
-(Full citation details to be added.)
-
 ---
 
 ## Future Work
